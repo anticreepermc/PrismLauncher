@@ -174,7 +174,6 @@
     </property>
     <addaction name="actionChangeTheme"/>
     <addaction name="separator"/>
-    <addaction name="actionCAT"/>
     <addaction name="actionToggleStatusBar"/>
     <addaction name="actionLockToolbars"/>
     <addaction name="separator"/>
